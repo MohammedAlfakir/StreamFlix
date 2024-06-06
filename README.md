@@ -1,3 +1,1 @@
-Netflix Clone Demo : 
-
-https://mafhalishnetflixclone.netlify.app/
+StreamFlix Is clone of Streaming Platform
